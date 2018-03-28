@@ -6,3 +6,4 @@ This is the collection of introductory tasks I performed during my first week at
 1. Obey the testing goat
 2. Django Rest framework
 
+
